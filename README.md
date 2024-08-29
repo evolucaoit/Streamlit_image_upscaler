@@ -1,4 +1,11 @@
-## 🌟 Streamlit Image Upscaler - Web Application
+## 🌐 Web App - Streamlit Image Upscaler 
+
+Confira a interface da aplicação **Streamlit Image Upscaler**:
+
+![Streamlit Image Upscaler](https://github.com/evolucaoit/Streamlit_image_upscaler/blob/main/chrome_MWqOpThAXa.png?raw=true)
+
+Esta imagem mostra como a aplicação se apresenta, permitindo o upload e o aprimoramento de imagens com facilidade. Experimente você mesmo para ver o resultado ao aumentar a resolução das suas imagens! 📈🖼️
+
 
 ### 🛠️ Descrição do Projeto
 
