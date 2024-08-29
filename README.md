@@ -94,3 +94,24 @@ Com esses passos, você poderá executar a aplicação e começar a usar o Strea
 📂 Organização e Praticidade: O uso de um nome de arquivo único garante que os arquivos não sejam sobrescritos, e a funcionalidade de download melhora a praticidade da aplicação para os usuários.
 Este projeto destaca minha capacidade de criar soluções práticas e visualmente atraentes com Streamlit e OpenCV, refletindo meu conhecimento avançado em desenvolvimento de aplicações web interativas e processamento de imagens. 🌟🖼️
 
+## 🌟 Sobre o minha jornada.
+
+Olá, sou **Elias Andrade**, um profissional apaixonado e autodidata com mais de 14 anos de experiência em infraestrutura de TI, automação e desenvolvimento de software. Minha jornada é marcada por um compromisso constante com a inovação e a melhoria contínua, e eu me orgulho de aplicar técnicas avançadas e soluções criativas em todos os meus projetos. 🚀
+
+### Minha Jornada
+
+- **🔍 Conhecimento Técnico**: Com uma sólida formação em administração de redes, sistemas Linux, práticas DevOps e muito mais, eu me especializo em criar soluções eficazes e inovadoras. Minha experiência abrange desde ambientes corporativos complexos até projetos mais ágeis e dinâmicos.
+  
+- **📚 Aprendizado Contínuo**: Sempre em busca de novos desafios e oportunidades de aprendizado, eu me mantenho atualizado com as últimas tecnologias e melhores práticas do setor. Meu foco é a aplicação prática de novos conhecimentos para criar soluções que fazem a diferença.
+
+- **💡 Soluções Inovadoras**: Desde o desenvolvimento de chatbots avançados até a criação de ferramentas de análise de dados, minha abordagem é centrada na resolução de problemas reais com soluções técnicas sofisticadas.
+
+### Conecte-se Comigo
+
+Para saber mais sobre meu trabalho e experiências, visite meus perfis nas redes sociais e GitHub:
+
+- **LinkedIn**: [Elias Andrade](https://www.linkedin.com/in/elias-andrade-4455)
+- **GitHub**: [chaos4455](https://github.com/chaos4455)
+
+Estou sempre aberto a novas conexões e oportunidades de colaboração. Vamos explorar juntos como podemos criar soluções impactantes! 🌐💻
+
