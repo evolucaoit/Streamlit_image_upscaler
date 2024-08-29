@@ -41,6 +41,46 @@ graph TD
     G --> H[Mostrar Mensagem de Sucesso]
     H --> I[Download da Imagem]
 ```
+
+## 🚀 Instruções de Instalação e Execução
+
+### 📦 Instalar Dependências
+
+Antes de executar o projeto, é necessário instalar as dependências. Utilize o seguinte comando para instalar todos os pacotes necessários listados no `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+📥 Clonar o Repositório
+Clone o repositório para seu ambiente local utilizando o comando abaixo:
+
+```bash
+git clone https://github.com/evolucaoit/Streamlit_image_upscaler.git
+```
+Navegue até o diretório do projeto clonado:
+
+```bash
+cd Streamlit_image_upscaler
+```
+🏃 Executar a Aplicação
+Para iniciar a aplicação Streamlit, execute o seguinte comando:
+
+```bash
+python -m streamlit run nome_do_arquivo.py
+```
+Substitua nome_do_arquivo.py pelo nome do arquivo Python principal da aplicação. Por exemplo, se o arquivo principal for app.py, o comando seria:
+
+```bash
+python -m streamlit run app.py
+```
+
+📋 Resumo
+Instale as dependências com pip install -r requirements.txt.
+Clone o repositório com git clone https://github.com/evolucaoit/Streamlit_image_upscaler.git.
+Navegue até o diretório do projeto com cd Streamlit_image_upscaler.
+Execute a aplicação com python -m streamlit run nome_do_arquivo.py.
+Com esses passos, você poderá executar a aplicação e começar a usar o Streamlit Image Upscaler para ampliar e melhorar a qualidade das suas imagens! 🌟🖼️
+
 💡 Pensamento por Trás da Implementação
 🚀 Simplicidade e Eficácia: A aplicação é projetada para ser intuitiva, permitindo que usuários facilmente carreguem e ampliem imagens com um simples clique.
 🔍 Qualidade da Imagem: A escolha do método INTER_CUBIC para interpolação visa oferecer a melhor qualidade possível na ampliação das imagens.
