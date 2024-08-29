@@ -66,12 +66,12 @@ cd Streamlit_image_upscaler
 Para iniciar a aplicação Streamlit, execute o seguinte comando:
 
 ```bash
-python -m streamlit run nome_do_arquivo.py
+python -m streamlit run streamlit-image-uspcaler.py
 ```
-Substitua nome_do_arquivo.py pelo nome do arquivo Python principal da aplicação. Por exemplo, se o arquivo principal for app.py, o comando seria:
+Substitua streamlit-image-uspcaler.py pelo nome do arquivo Python principal da sua aplicação. Por exemplo, se o arquivo principal for seuapp.py, o comando será:
 
 ```bash
-python -m streamlit run app.py
+python -m streamlit run seuapp.py
 ```
 
 📋 Resumo
