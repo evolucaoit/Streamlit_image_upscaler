@@ -6,6 +6,12 @@ Confira a interface da aplicação **Streamlit Image Upscaler**:
 
 Esta imagem mostra como a aplicação se apresenta, permitindo o upload e o aprimoramento de imagens com facilidade. Experimente você mesmo para ver o resultado ao aumentar a resolução das suas imagens! 📈🖼️
 
+💡 Pensamento por Trás da Implementação
+🚀 Simplicidade e Eficácia: A aplicação é projetada para ser intuitiva, permitindo que usuários facilmente carreguem e ampliem imagens com um simples clique.
+🔍 Qualidade da Imagem: A escolha do método INTER_CUBIC para interpolação visa oferecer a melhor qualidade possível na ampliação das imagens.
+📂 Organização e Praticidade: O uso de um nome de arquivo único garante que os arquivos não sejam sobrescritos, e a funcionalidade de download melhora a praticidade da aplicação para os usuários.
+Este projeto destaca minha capacidade de criar soluções práticas e visualmente atraentes com Streamlit e OpenCV, refletindo meu conhecimento avançado em desenvolvimento de aplicações web interativas e processamento de imagens. 🌟🖼️
+
 
 ### 🛠️ Descrição do Projeto
 
@@ -80,20 +86,6 @@ Substitua streamlit-image-uspcaler.py pelo nome do arquivo Python principal da s
 ```bash
 python -m streamlit run seuapp.py
 ```
-
-📋 Resumo
-Instale as dependências com pip install -r requirements.txt.
-Clone o repositório com git clone https://github.com/evolucaoit/Streamlit_image_upscaler.git.
-Navegue até o diretório do projeto com cd Streamlit_image_upscaler.
-Execute a aplicação com python -m streamlit run nome_do_arquivo.py.
-Com esses passos, você poderá executar a aplicação e começar a usar o Streamlit Image Upscaler para ampliar e melhorar a qualidade das suas imagens! 🌟🖼️
-
-💡 Pensamento por Trás da Implementação
-🚀 Simplicidade e Eficácia: A aplicação é projetada para ser intuitiva, permitindo que usuários facilmente carreguem e ampliem imagens com um simples clique.
-🔍 Qualidade da Imagem: A escolha do método INTER_CUBIC para interpolação visa oferecer a melhor qualidade possível na ampliação das imagens.
-📂 Organização e Praticidade: O uso de um nome de arquivo único garante que os arquivos não sejam sobrescritos, e a funcionalidade de download melhora a praticidade da aplicação para os usuários.
-Este projeto destaca minha capacidade de criar soluções práticas e visualmente atraentes com Streamlit e OpenCV, refletindo meu conhecimento avançado em desenvolvimento de aplicações web interativas e processamento de imagens. 🌟🖼️
-
 ## 🌟 Sobre o minha jornada.
 
 Olá, sou **Elias Andrade**, um profissional apaixonado e autodidata com mais de 14 anos de experiência em infraestrutura de TI, automação e desenvolvimento de software. Minha jornada é marcada por um compromisso constante com a inovação e a melhoria contínua, e eu me orgulho de aplicar técnicas avançadas e soluções criativas em todos os meus projetos. 🚀
